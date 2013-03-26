@@ -6,7 +6,7 @@ use LWP::RobotUA;
 use utf8; 
 
 #开始扫描的id号
-my $beginid         = 2185172;
+my $beginid         = 100001;
 #结束的id号
 my $endid           = 2696863;
 #每个文件存放多少条数据
